@@ -1,0 +1,29 @@
+[
+  {
+    "user": "mike",
+    "year": 2015,
+    "month": 12,
+    "population": 500000.0,
+    "growth": 15.0,
+    "prediction": 816829.77,
+    "timestamp": "2026-01-09T15:58:31.695183Z"
+  },
+  {
+    "user": "mike",
+    "year": 2025,
+    "month": 5,
+    "population": 5000000.0,
+    "growth": 12.0,
+    "prediction": 8168489.81,
+    "timestamp": "2026-01-09T15:50:10.342046Z"
+  },
+  {
+    "user": "mike",
+    "year": 2025,
+    "month": 12,
+    "population": 10000000.0,
+    "growth": 12.0,
+    "prediction": 16336869.48,
+    "timestamp": "2026-01-09T15:37:04.731818Z"
+  }
+]
